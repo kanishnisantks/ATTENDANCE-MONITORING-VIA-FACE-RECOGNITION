@@ -19,15 +19,14 @@
     </head>
     </p>
   <p align="left">
-    1) In command prompt write following command:</p>  
-  pip install -r <mark>requirements.txt</mark>
-  
- And press enter. All the necessary files will be installed.
-      
-      2) Now we need to add the users who need to be detected in the image_folder folder.
-    In my case, I have added the images of 2 people, one is me and the other 1 is cricketer.
-      
-      3)Now we are good to go. Run the app & stand infront of the cam showing your face.
-  
-       The face has been detected and the attendance has been updated in the spreadsheet with respective time.
+    1) In command prompt write following command:</p>
+   pip install -r requirements.txt
+  <div align="left">And press enter. All the necessary files will be installed.</div>
+  <p align="left"></br>
+    2) Now we need to add the users who need to be detected in the image_folder folder.</p>
+  <p align="left">In my case, I have added the images of 2 people:one is me and the other 1 is cricketer.</p>
+  <p align="left">
+  3)Now we are good to go. Run the app & stand infront of the cam showing your face.</p>
+  <p align="left">
+  The face has been detected and the attendance has been updated in the spreadsheet with respective time.</p>
       
