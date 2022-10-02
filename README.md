@@ -20,10 +20,12 @@
     </p>
   <p align="left">
     1) In command prompt write following command:</p>
-   pip install -r requirements.txt
+   pip install -r Requirements.txt
+   ![Screenshot 2022-10-02 212535](https://user-images.githubusercontent.com/106583698/193466854-8df9647b-d610-4fe2-8fc6-9622bee901e8.jpg)
   <div align="left">And press enter. All the necessary files will be installed.</div>
   <p align="left"></br>
     2) Now we need to add the users who need to be detected in the image_folder folder.</p>
+    ![Screenshot 2022-10-02 222747](https://user-images.githubusercontent.com/106583698/193466878-1af5149b-573f-484d-9e6a-1e2d92c391de.jpg)
   <p align="left">In my case, I have added the images of 2 people:one is me and the other 1 is cricketer.</p>
   <p align="left">
   3)Now we are good to go. Run the app & stand infront of the cam showing your face.</p>
