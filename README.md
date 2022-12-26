@@ -32,3 +32,4 @@
   <p align="left">
   The face has been detected and the attendance has been updated in the spreadsheet with respective time.</p>
       
+,
